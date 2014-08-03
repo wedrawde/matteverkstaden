@@ -3,10 +3,7 @@
 1. Teori
 2. Exempel
 
-$ \tabular{align*}
-& 1
-& 2
-} $
+$\sqrt{3}$
 
 # Matematik 2
 
