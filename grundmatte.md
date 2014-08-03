@@ -3,10 +3,10 @@
 1. Teori
 2. Exempel
 
-\tabular{align*}
+$ \tabular{align*}
 & 1
 & 2
-}
+} $
 
 # Matematik 2
 
